@@ -6,9 +6,11 @@ Before you use it, please make some dirs so that the directory tree may look lik
   - data
   - exp
   - results
+
+
 then, you should comfirm your environment
 ```bash
 conda create -n cali python=3.7
 conda activate cali
-pip install inquirement.txt
+pip install requirement.txt
 ```
